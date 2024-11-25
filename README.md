@@ -3,6 +3,10 @@ Casino Resource for QBCore
 This is an updated version of the DOJ Casino resource for QBCore framework. I do not claim ownership of the original script. 
 This update includes bug fixes and ensures compatibility with the latest QBCore versions.
 
+Showcase:
+
+https://www.youtube.com/watch?v=pu8Aoxo3RC8&ab_channel=Ry
+
 Features:
 
 Membership System: Players can join the casino with a membership, giving them exclusive access to premium features.
