@@ -3,7 +3,34 @@ Casino Resource for QBCore
 This is an updated version of the DOJ Casino resource for QBCore framework. I do not claim ownership of the original script. 
 This update includes bug fixes and ensures compatibility with the latest QBCore versions.
 
-Installation Instructions
+Features:
+
+Membership System: Players can join the casino with a membership, giving them exclusive access to premium features.
+Betting Chips: Players can bet with chips to play various games throughout the casino.
+
+Games:
+
+Blackjack
+Horse Race (Inside Track)
+Lucky Wheel: Spin the wheel for a chance to win big prizes, including a car (customizable to any vehicle you prefer).
+3 Card Poker
+Roulette
+Slot Machines
+
+Penthouse: A luxurious area for the rich, where you can install custom apartments.
+
+MLO Features:
+
+A massive MLO casino environment to explore, complete with a garage, staff area, and a huge basement.
+Vault: A potential future location for a heist? Who knows, maybe one day you can rob this high-end casino!
+
+Depenencies:
+
+https://github.com/qbcore-framework/qb-menu
+
+https://github.com/qbcore-framework/qb-target
+
+https://github.com/RyFiction/DLCiplLoader
 
 1. Add Item Images
 
