@@ -32,7 +32,7 @@ Depenencies:
 
 [QBCore Framework](https://github.com/qbcore-framework)
 
-[DLciplLoader/MLO](https://github.com/RyFiction/DLCiplLoader)
+[DLCiplLoader/MLO](https://github.com/RyFiction/DLCiplLoader)
 
 Installation instuctions:
 
