@@ -30,9 +30,9 @@ Vault: A potential future location for a heist? Who knows, maybe one day you can
 
 Depenencies:
 
-https://github.com/qbcore-framework
+[QBCore Framework](https://github.com/qbcore-framework)
 
-https://github.com/RyFiction/DLCiplLoader
+[DLciplLoader/MLO](https://github.com/RyFiction/DLCiplLoader)
 
 Installation instuctions:
 
@@ -66,4 +66,4 @@ Original Script: DOJ Casino
 Updates & Fixes: dotRy
 
 Feel free to reach out if you encounter any issues! 🎲
-Discord: @Ryfiction
+[Discord](https://discord.com/invite/rwKfYSAKxN)
