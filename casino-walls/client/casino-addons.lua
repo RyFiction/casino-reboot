@@ -1,0 +1,13 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+
+Citizen.CreateThread(function()
+    casino = AddBlipForCoord(924.75469, 46.705448, 81.106391)
+    SetBlipSprite (casino, 680)
+    SetBlipDisplay(casino, 4)
+    SetBlipScale  (casino, 0.8)
+    SetBlipAsShortRange(casino, true)
+    SetBlipColour(casino, 28)
+    BeginTextCommandSetBlipName("STRING")
+    AddTextComponentSubstringPlayerName("Casino")
+    EndTextCommandSetBlipName(casino)
+end) 
