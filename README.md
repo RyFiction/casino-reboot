@@ -26,9 +26,7 @@ Vault: A potential future location for a heist? Who knows, maybe one day you can
 
 Depenencies:
 
-https://github.com/qbcore-framework/qb-menu
-
-https://github.com/qbcore-framework/qb-target
+https://github.com/qbcore-framework
 
 https://github.com/RyFiction/DLCiplLoader
 
