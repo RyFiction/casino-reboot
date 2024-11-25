@@ -32,14 +32,20 @@ https://github.com/qbcore-framework/qb-target
 
 https://github.com/RyFiction/DLCiplLoader
 
-1. Add Item Images
+Installation instuctions:
+
+1. Install DLCiplLoader
+
+Drag and drop into the [Casino Reboot] folder.
+
+2. Add inventory Images
 
 Navigate to the following directory in your server files:
 resources\[qb]\qb-inventory\html\images
 
 Copy the provided PNG files and paste them into the images folder.
 
-2. Add Casino Items
+3. Add Casino Items
 
 Open the items.lua file in the following directory:
 resources\[qb]\qb-core\shared\items.lua
@@ -51,7 +57,7 @@ Add the following lines of code to the file:
 ["casino_member"]            = {["name"] = "casino_member",          ["label"] = "Member Card",         ["weight"] = 50,        ["type"] = "item",      ["image"] = "casino_member.png",            ["unique"] = true,      ["useable"] = false,    ["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Diamond Casino Membership Card"},
 ["casino_vip"]               = {["name"] = "casino_vip",             ["label"] = "V.I.P Pass",          ["weight"] = 70,        ["type"] = "item",      ["image"] = "casino_vip.png",               ["unique"] = true,      ["useable"] = false,    ["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Diamond Casino V.I.P ALL ACCESS Pass"},
 
-3. Restart Your Server
+4. Restart Your Server
 
 Credits
 Original Script: DOJ Casino
