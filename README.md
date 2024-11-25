@@ -60,7 +60,7 @@ Add the following lines of code to the file:
 **4. Restart Your Server**
 
 Credits
-Original Script: DOJ Casino
+Original Script: DOJ Casino -
 Updates & Fixes: dotRy
 
 Feel free to reach out if you encounter any issues! 🎲
