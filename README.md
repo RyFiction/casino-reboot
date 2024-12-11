@@ -64,4 +64,4 @@ Original Script: [DOJ Casino](https://github.com/dojwun/doj-casino/tree/92a5d5e7
 Updates & Fixes: .Ry
 
 Feel free to reach out if you encounter any issues! 🎲
-[Discord](https://discord.com/invite/rwKfYSAKxN)
+[Discord](https://discord.gg/CSvx3SvxAq)
