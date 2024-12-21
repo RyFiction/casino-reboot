@@ -5,6 +5,8 @@ This update includes bug fixes and ensures compatibility with the latest QBCore 
 
 [Showcase](https://www.youtube.com/watch?v=pu8Aoxo3RC8&ab_channel=Ry)
 
+![image](https://github.com/user-attachments/assets/f0e8f06b-dffe-4124-b1a4-060ad6b66b84)
+
 **Features:**
 
 Membership System: Players can join the casino with a membership, giving them exclusive access to premium features.
